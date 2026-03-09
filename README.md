@@ -41,7 +41,7 @@ An end-to-end machine learning pipeline that detects fraudulent online transacti
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/aryadityad/Online-Fraud-Detection.git
+git clone https://github.com/Aashish1799/Online-Fraud-Detection.git
 cd Online-Fraud-Detection
 ```
 
@@ -116,3 +116,4 @@ Watch the full project in action here:
 
 
 ---
+
